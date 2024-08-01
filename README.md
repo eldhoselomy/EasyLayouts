@@ -8,10 +8,10 @@ Retrieve Constraints: Retrieve specific constraints associated with a view, with
 Results Builder Support: Use Swift’s results builder syntax to define constraints in a concise and readable manner.
 
 ## Installation
-To add SwiftViewConstraints to your project, simply include it as a dependency in your Package.swift file:
+To add EasyLayouts to your project, simply include it as a dependency in your Package.swift file:
 ```
 dependencies: [
-    .package(url: "https://github.com/yourusername/SwiftViewConstraints.git", from: "1.0.0")
+    .package(url: "https://github.com/eldhoselomy/EasyLayouts.git", from: "1.0.0")
 ]
 ```
 ## Usage
